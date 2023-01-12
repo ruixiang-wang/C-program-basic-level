@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\35199\Desktop\wdky\5. Pointer\5.7 Difference between stack and heap space\main.c(13,19): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\35199\Desktop\wdky\5. Pointer\5.7 Difference between stack and heap space\main.c(14,2): warning C4013: “strcpy”未定义；假设外部返回 int
+C:\Users\35199\Desktop\wdky\5. Pointer\5.7 Difference between stack and heap space\main.c(9): warning C4172: 返回局部变量或临时变量的地址: c
+  5.7 Difference between stack and heap space.vcxproj -> C:\Users\35199\Desktop\wdky\5. Pointer\Debug\5.7 Difference between stack and heap space.exe
