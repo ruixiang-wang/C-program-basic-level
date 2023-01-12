@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\35199\Desktop\wdky\2. Data Types and Operators\2.4 Floating number and string\main.c(4,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\35199\Desktop\wdky\2. Data Types and Operators\2.4 Floating number and string\main.c(5,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\35199\Desktop\wdky\2. Data Types and Operators\2.4 Floating number and string\main.c(7,11): warning C4305: “初始化”: 从“int”到“char”截断
+  2.4 Floating number and string.vcxproj -> C:\Users\35199\Desktop\wdky\2. Data Types and Operators\x64\Debug\2.4 Floating number and string.exe
