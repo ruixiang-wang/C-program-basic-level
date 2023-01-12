@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\35199\Desktop\wdky\2. Data Types and Operators\2.17 Self-increasing and self-subtracting operators\main.c(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\35199\Desktop\wdky\2. Data Types and Operators\2.17 Self-increasing and self-subtracting operators\main.c(6,9): message : 请考虑在格式字符串中使用“%zd”
+  2.17 Self-increasing and self-subtracting operators.vcxproj -> C:\Users\35199\Desktop\wdky\2. Data Types and Operators\x64\Debug\2.17 Self-increasing and self-subtracting operators.exe
